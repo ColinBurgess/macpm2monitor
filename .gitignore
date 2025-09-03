@@ -1,0 +1,10 @@
+# Archivos y carpetas ignorados
+node_modules/
+.DS_Store
+*.log
+/dist
+/build
+.env
+
+# Local developer notes
+TODO.md
