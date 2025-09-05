@@ -8,3 +8,37 @@ node_modules/
 
 # Local developer notes
 TODO.md
+
+# Xcode user-specific files and folders
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+*.xcscheme
+*.xcschememanagement.plist
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.xcsettings
+*.xcconfig
+
+# Xcode workspace user data
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/swiftpm/configuration/
+
+# Build and derived data
+build/
+DerivedData/
+dist/
+*.app
+*.ipa
+*.dSYM
+
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.swp
+*.tmp
+*.bak
+*.orig

@@ -1,1 +1,0 @@
-[{"name": "test-server", "pm2_env": {"status": "stopped", "pm_id": 1, "pm_exec_path": "node ./server.js --port 3000"}}, {"name": "gui-test", "pm2_env": {"status": "online", "pm_id": 2, "pm_exec_path": "node ./server.js --port 4001"}}, {"name": "proc-3", "pm2_env": {"status": "online", "pm_id": 3, "pm_exec_path": "node ./other.js --flag"}}]
